@@ -13,6 +13,7 @@ function App() {
         <p>Home</p>
         <p>Blog</p>
         <Button />
+        <Button />
       </nav>
     </div>
   );
